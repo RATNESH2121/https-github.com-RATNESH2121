@@ -18,7 +18,7 @@
 - 🚀 Building **real-world web applications**
 - 🧠 Interested in **Backend Development & System Design**
 - 📚 Practicing **DSA and problem solving**
-- 🤝 Open to **internships and collaborations**
+- 🤝 Open to **Internships and collaborations**
 
 ---
 
